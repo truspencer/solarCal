@@ -49,7 +49,7 @@ body {
 }
 header {
 	border-top: 40px solid #884EA0;
-	background-image: url(../images/sun.png);
+	background-image: sun.png;
 	/*Sun from https://openclipart.org/detail/3367/decorative-sun*/
 	background-repeat: no-repeat;
 }
